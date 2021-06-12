@@ -1,4 +1,4 @@
-module my-project 
+module my-project
 
 go 1.16
 
@@ -15,5 +15,5 @@ require (
 	go.starlark.net v0.0.0-20210602144842-1cdb82c9e17a // indirect
 	golang.org/x/arch v0.0.0-20210502124803-cbf565b21d1e // indirect
 	golang.org/x/sys v0.0.0-20210603125802-9665404d3644 // indirect
-	golang.org/x/tools v0.1.2 // indirect
+	golang.org/x/tools v0.1.3 // indirect
 )
